@@ -9,8 +9,8 @@
 
 <channel>
 	<title>lumine &#8211; Funeral Parlor</title>
-	<atom:link href="/author/lumine/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://iftee07.github.io/Funeral/author/lumine/feed/" rel="self" type="application/rss+xml" />
+	<link>https://iftee07.github.io/Funeral</link>
 	<description>Wangsheng Funeral Parlor</description>
 	<lastBuildDate>Thu, 01 Jul 2021 21:09:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Hu Tao  X  XIAO</title>
-		<link>/hu-tao-x-xiao/</link>
-					<comments>/hu-tao-x-xiao/#respond</comments>
+		<link>https://iftee07.github.io/Funeral/hu-tao-x-xiao/</link>
+					<comments>https://iftee07.github.io/Funeral/hu-tao-x-xiao/#respond</comments>
 		
 		<dc:creator><![CDATA[lumine]]></dc:creator>
 		<pubDate>Thu, 01 Jul 2021 21:08:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=576</guid>
+		<guid isPermaLink="false">https://iftee07.github.io/Funeral/?p=576</guid>
 
 					<description><![CDATA[dibvasibdvosivOSDVUNSDUVPAOIFSHCNOUZDBOAoibvosivbudsnV vpsdhivosvjnosevsopdivnodsuhfvosdvnddsouivbdv sdivsoindvosidxvpndpsoidvsdiovnxspidvhnsvpidv spdivnbpiadsbfviuserbvsdjkvbguispvbicuvbbisdugfiufgfrheuiv asuovbgirugvbdsivjsdfoiewogudhnsoidvneughudfisgbvosdbv soduvsdjvburighseiodfjdoifneuowrusgvidvbsdjkcvlxkceowidskifhowuiefha&#8217; aowegifs&#8217;asldgkna pspiegsd vinerioghihdfihsifhsofewhfsnfvodsheuofnefjb]]></description>
 										<content:encoded><![CDATA[
@@ -66,27 +66,27 @@
 <p>vinerioghihdfihsifhsofewhfsnfvodsheuofnefjb</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hu-tao-x-xiao/feed/</wfw:commentRss>
+					<wfw:commentRss>https://iftee07.github.io/Funeral/hu-tao-x-xiao/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://iftee07.github.io/Funeral/hello-world/</link>
+					<comments>https://iftee07.github.io/Funeral/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[lumine]]></dc:creator>
 		<pubDate>Tue, 22 Jun 2021 12:07:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://iftee07.github.io/Funeral/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://iftee07.github.io/Funeral/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
